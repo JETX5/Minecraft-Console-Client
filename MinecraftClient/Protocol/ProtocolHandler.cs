@@ -319,6 +319,7 @@ namespace MinecraftClient.Protocol
                         return 762;
                     case "1.20":
                     case "1.20.1":
+                    case "1.20.2":
                         return 763;
                     default:
                         return 0;
